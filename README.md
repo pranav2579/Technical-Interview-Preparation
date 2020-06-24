@@ -1,7 +1,5 @@
 # Technical-Interview-Preparation
 
-https://github.com/pranav2579/Technical-Interview-Preparation/wiki/Technical-Interview-Preparation-Resources-and-Plan
+2020 Complete Guide to Quick Technical Interview Prep (1 to 3 months)
 
-
-# Quick Interview Preparation (1-2 Months)
-https://github.com/pranav2579/Technical-Interview-Preparation/wiki/Quick-Interview-Preparation-(-1-to-2-Months)
+https://github.com/pranav2579/Technical-Interview-Preparation/wiki/2020-Complete-Guide-to-Quick-Technical-Interview-Prep-(1-to-3-months)

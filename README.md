@@ -27,7 +27,7 @@ I hope it helps! Good Luck!
 
 ## Coding Practice:
 1. ### Grokking the Coding Interview:  
-	1. Course Link: https://www.educative.io/courses/grokking-the-coding-interview
+	1. Course Link: https://www.designgurus.io/course/grokking-the-coding-interview
 	2. Articles which summarizes this course in short: https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
 2. ### Leetcode Questions:
 	1. LeetCode Top Interview questions: https://leetcode.com/problemset/top-interview-questions/
@@ -58,7 +58,7 @@ I hope it helps! Good Luck!
 
 ## System Design Concepts: 
 1. System Design Primer: https://github.com/donnemartin/system-design-primer#step-1-review-the-scalability-video-lecture
-2. Grokking system design interviews: https://www.educative.io/courses/grokking-the-system-design-interview 
+2. Grokking system design interviews: https://www.designgurus.io/course/grokking-the-system-design-interview 
 3. Hired In Tech: https://www.hiredintech.com/classrooms/system-design/lesson/52
 4. System Design Cheatsheet: https://gist.github.com/vasanthk/485d1c25737e8e72759f
 
